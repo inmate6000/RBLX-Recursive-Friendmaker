@@ -1,4 +1,4 @@
-# RBLX-Recursive-Friendmaker
+# RBLX-Recursive-Friendmaker (COMING SOON)
 Specify a user id, and then will friend everyone within X specified levels. 
 
 Example:
